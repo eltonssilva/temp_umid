@@ -14,10 +14,10 @@
 
 const char* USER_MQTT       = "User000001075";
 const char* PASSWORD_MQTT   = "upfkk9ym";
-#define ID_MQTT             "02AA34A502BB"
+#define ID_MQTT             "02AA65F25E6D"
 
-#define MQTT_PUB_TEMP       "/autodomo/User000001075/03AA5E75B8CD/temperature/state"
-#define MQTT_PUB_HUM        "/autodomo/User000001075/02AA34A502BB/humidity/state"
+#define MQTT_PUB_TEMP       "/autodomo/User000001075/03AAFB3F83DF/temperature/state"
+#define MQTT_PUB_HUM        "/autodomo/User000001075/02AA65F25E6D/humidity/state"
 
 
 // Pino de Dados do DHT11
